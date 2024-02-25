@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akashtalole
-- 👀 I’m interested in Generative AI, GPT, IoT, NodeRED, Python
-- 🌱 I’m currently learning Langchain and NodeJS
+- 👀 I’m interested in Generative AI, GPT, LLM, NodeRED, Python
+- 🌱 I’m currently learning Langchain and LlamaIndex
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 
